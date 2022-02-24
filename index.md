@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub For Everyone
 
 You can use the [editor on GitHub](https://github.com/mattdavis0351/curly-fiesta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
